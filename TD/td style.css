@@ -1,0 +1,11 @@
+
+#td1{
+    height: 100px;
+    width: 250px;
+}
+#td2{
+    position: relative;
+    height: 100px;
+    width: 250px;
+    background-color: lightskyblue;
+}
